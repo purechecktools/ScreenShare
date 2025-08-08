@@ -1,0 +1,17 @@
+# Ignore any logs, temporary files, and Windows system files
+
+*.log
+*.txt
+
+# Ignore user-specific files
+*.ps1xml
+*.pssc
+
+# Ignore Windows thumbnail cache files
+Thumbs.db
+
+# Ignore desktop.ini
+desktop.ini
+
+# Ignore PowerShell history files
+ConsoleHost_history.txt
